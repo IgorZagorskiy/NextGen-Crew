@@ -13,6 +13,11 @@
 
 .advertisement-section {
     padding: 60px 28px;
+        background-image: url(/src/img/advertisement-bg-mob@1x.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        margin: 0 auto;
 }
 
 @media only screen and (min-width: 768px) {
